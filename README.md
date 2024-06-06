@@ -14,7 +14,7 @@ Proyek ini bertujuan meningkatkan kualitas udara dengan memantau emisi debu dan 
 ## Dokumentasi
 
 <!-- Berikut adalah beberapa tangkapan layar dari aplikasi: -->
-<img src="assets/docs.png" alt="Beranda" width="500"/>
+<img src="assets/docs.jpg" alt="Beranda" width="500"/>
 
 ### Diagram Blok
 
